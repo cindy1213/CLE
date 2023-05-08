@@ -1,0 +1,1 @@
+select * FROM  carrera , grupos , modulos where  idcarrera= id_modulos;
